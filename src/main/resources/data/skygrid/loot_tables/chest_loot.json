@@ -1,0 +1,35 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "skygrid:lucky_loot"
+        },
+        {
+          "type": "loot_table",
+          "weight": 15,
+          "name": "skygrid:material_loot"
+        },
+        {
+          "type": "loot_table",
+          "weight": 15,
+          "name": "skygrid:plant_loot"
+        },
+        {
+          "type": "loot_table",
+          "weight": 15,
+          "name": "skygrid:tool_loot"
+        },
+        {
+          "type": "loot_table",
+          "weight": 3,
+          "name": "skygrid:unlucky_loot"
+        }
+      ]
+    }
+  ]
+}
